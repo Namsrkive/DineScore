@@ -60,7 +60,7 @@ Python, Pandas, Numpy, Matplotlib, Scikit-learn, Streamlit, Git
 Clone the project
 
 ```bash
-  git clone https://github.com/Namsrkive/Machine-Learning-Project.git
+  git clone https://github.com/Namsrkive/DineScore.git
 ```
 
 Change to project directory
