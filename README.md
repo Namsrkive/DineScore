@@ -33,7 +33,7 @@ Zomato is one of the best online food delivery apps which gives the users the ra
 
  - [Github Link](https://github.com/Namsrkive/DineScore.git)
  - [Kaggle Dataset link](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants)
- - [Application Link](https://github.com/Namsrkive/DineScore.git)
+ - [Application Link](https://deathz0ne-ineuron-restaurant-rating-predict-introduction-1r4v3w.streamlit.app/)
 
 ## 🛠 Skills
 Python, Pandas, Numpy, Matplotlib, Scikit-learn, Streamlit, Git
